@@ -1,0 +1,3 @@
+/home/tanishq/Desktop/cg-assignments/a1/code/build/CMakeFiles/Assignment01.dir
+/home/tanishq/Desktop/cg-assignments/a1/code/build/CMakeFiles/edit_cache.dir
+/home/tanishq/Desktop/cg-assignments/a1/code/build/CMakeFiles/rebuild_cache.dir
